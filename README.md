@@ -42,7 +42,7 @@ Install Python (if not installed)
 
 Open terminal / cmd
 
-Run the following command:
+Run the following command: git clone https://github.com/dev-shamiul/python-basic-calculator.git
 
 python calculator.py
 
