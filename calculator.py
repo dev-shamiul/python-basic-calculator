@@ -26,13 +26,13 @@ while True:
 
     if choice == '5':
         print("Exiting... Thank you for using the calculator!")
-        break  # loop theke ber hoye program sesh
+        break  
 
     if choice not in ['1', '2', '3', '4']:
         print("Invalid Input! Please choose between 1 to 5.")
-        continue  # abar menu dekhabe
+        continue  
 
-    # ekhane ashlei dhore nilam user 1-4 er moddhe choice dise
+    
     try:
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
